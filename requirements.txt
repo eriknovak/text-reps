@@ -1,0 +1,7 @@
+numpy
+torch
+nltk
+tqdm
+transformers
+python-dotenv
+black
